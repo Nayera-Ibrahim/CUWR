@@ -7,5 +7,6 @@ This project comprises an analysis that explores the strongest indicators of  we
 ### Data
 This data is publicly available from an open-source data. It was downloaded from Kaggle.com on 30 March 2023. 
 https://www.kaggle.com/datasets/mylesoneill/world-university-rankings?select=cwurData.csv
+Country polygons as GeoJSON (https://datahub.io/core/geo-countries#resource-countries)
 ### Visualisation
 [Link to viz](https://public.tableau.com/app/profile/nayera.ibrahim/viz/CUWR/Intro?publish=yes)
